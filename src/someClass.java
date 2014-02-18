@@ -15,7 +15,6 @@ public class someClass {
 
 
         String[] resutlStringAfterFirstDivision = new String[infoString.length()];
-        String[] resultStringAfterSecondDivision = new String[50];
 
         StringTokenizer st1 = new StringTokenizer(infoString, "[");
 
@@ -30,6 +29,8 @@ public class someClass {
         String[] endStringResultOfFirstDivision = new String[st2.countTokens()];
 
         System.out.print("result of first division");
+        System.out.println("");
+
         while (st2.hasMoreElements()) {
             endStringResultOfFirstDivision[ii] = String.valueOf(st2.nextElement());
             ii++;
@@ -39,7 +40,23 @@ public class someClass {
             System.out.println(endStringResultOfFirstDivision[iii]);
         }
 
-        //StringTokenizer st3 = new StringTokenizer()
+        System.out.print("result of second division");
+        System.out.println("");
+
+
+        String[] resultStringAfterSecondDivision = new String[endStringResultOfFirstDivision.length * 50];
+
+        StringTokenizer st3;
+
+
+
+        for(int iiii=0;iiii<7;iiii++){
+            st3 = new StringTokenizer(endStringResultOfFirstDivision[iiii], "##");
+            while(st3.hasMoreElements()){
+            System.out.println(st3.nextElement());
+            }
+        }
 
     }
+
 }
