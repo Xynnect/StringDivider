@@ -67,9 +67,10 @@
       <file leaf-file-name="someClass.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/someClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="976" selection-end="976" vertical-scroll-proportion="0.312187" vertical-offset="0" max-vertical-offset="1105">
+            <state line="82" column="0" selection-start="3659" selection-end="3659" vertical-scroll-proportion="1.1469115" vertical-offset="673" max-vertical-offset="1598">
               <folding>
                 <element signature="docComment;class#someClass#0" expanded="false" />
+                <element signature="e#1273#1283#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -221,6 +222,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SearchEverywhereHistory" value="s" />
   </component>
   <component name="RunManager" selected="Application.someClass">
     <configuration default="false" name="someClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -380,6 +382,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d944b82c-dae6-4fc0-8fb7-e2cf6c0bec36" name="Default" comment="" />
@@ -410,7 +429,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -478,9 +497,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/someClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="976" selection-end="976" vertical-scroll-proportion="0.312187" vertical-offset="0" max-vertical-offset="1105">
+        <state line="82" column="0" selection-start="3659" selection-end="3659" vertical-scroll-proportion="1.1469115" vertical-offset="673" max-vertical-offset="1598">
           <folding>
             <element signature="docComment;class#someClass#0" expanded="false" />
+            <element signature="e#1273#1283#0" expanded="true" />
           </folding>
         </state>
       </provider>
