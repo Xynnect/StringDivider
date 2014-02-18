@@ -67,7 +67,7 @@
       <file leaf-file-name="someClass.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/someClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="59" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.34056762" vertical-offset="170" max-vertical-offset="833">
+            <state line="38" column="68" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.7378965" vertical-offset="170" max-vertical-offset="833">
               <folding>
                 <element signature="docComment;class#someClass#0" expanded="false" />
               </folding>
@@ -79,7 +79,10 @@
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_51/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1969" column="0" selection-start="77901" selection-end="77901" vertical-scroll-proportion="0.0" vertical-offset="32700" max-vertical-offset="52292">
-              <folding />
+              <folding>
+                <element signature="e#0#122710#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -466,13 +469,16 @@
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_51/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1969" column="0" selection-start="77901" selection-end="77901" vertical-scroll-proportion="0.0" vertical-offset="32700" max-vertical-offset="52292">
-          <folding />
+          <folding>
+            <element signature="e#0#122710#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/someClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="59" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.34056762" vertical-offset="170" max-vertical-offset="833">
+        <state line="38" column="68" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.7378965" vertical-offset="170" max-vertical-offset="833">
           <folding>
             <element signature="docComment;class#someClass#0" expanded="false" />
           </folding>
